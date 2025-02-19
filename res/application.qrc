@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="icon">
+        <file alias="minimize">icon/minimize_fill1_wght400_grad0_opsz48.svg</file>
+        <file alias="setting">icon/settings_fill1_wght400_grad0_opsz48.svg</file>
+    </qresource>
+
+    <qresource prefix="img">
+        <file alias="first_image_from_webb">img/first_image_from_webb.jpg</file>
+    </qresource>
+
+    <qresource prefix="layer">
+        <file alias="add_layer">layer/add_box_fill0_wght400_gard0_opsz24.svg</file>
+        <file alias="adjust_layer">layer/tune_fill0_wght400_grad0_opsz24.svg</file>
+        <file alias="layer_effect">layer/filter_fill0_wght400_grad0_opsz24.svg</file>
+        <file alias="layer_mask">layer/domino_mask_fill0_wght400_grad0_opsz24.svg</file>
+        <file alias="layer_copy">layer/file_copy_fill0_wght400_grad0_opsz24.svg</file>
+        <file alias="layer_arrange">layer/layers_fill0_wght400_grad0_opsz24.svg</file>
+        <file alias="layer_delete">layer/delete_fill0_wght400_grad0_opsz24.svg</file>
+    </qresource>
+
+    <qresource prefix="tab">
+        <file alias="track_detail">tab/art_track_fill1_wght400_grad0_opsz48.svg</file>
+        <file alias="instrument">tab/piano_fill1_wght400_grad0_opsz48.svg</file>
+        <file alias="project">tab/description_fill1_wght400_grad0_opsz48.svg</file>
+        <file alias="track">tab/leaderboard_fill1_wght400_grad0_opsz48.svg</file>
+    </qresource>
+
+    <qresource prefix="toolbar">
+        <file alias="account_circle">toolbar/account_circle_fill1_wght400_grad0_opsz48.svg</file>
+        <file alias="export">toolbar/drive_file_move_fill1_wght400_grad0_opsz48.svg</file>
+        <file alias="fast_forward">toolbar/fast_forward_fill1_wght400_grad0_opsz48.svg</file>
+        <file alias="fast_rewind">toolbar/fast_rewind_fill1_wght400_grad0_opsz48.svg</file>
+        <file alias="pause">toolbar/pause_fill1_wght400_grad0_opsz48.svg</file>
+        <file alias="play_arrow">toolbar/play_arrow_fill1_wght400_grad0_opsz48.svg</file>
+        <file alias="schedule">toolbar/schedule_fill0_wght400_grad0_opsz48.svg</file>
+        <file alias="skip_previous">toolbar/skip_previous_fill1_wght400_grad0_opsz48.svg</file>
+    </qresource>
+
+    <qresource prefix="midi">
+        <file alias="little_star">midi/little_star.mid</file>
+    </qresource>
+</RCC>
