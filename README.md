@@ -8,26 +8,14 @@ use Character application to create sound and images, and finally generate
 videos that can be played. In order to liberate people's productivity,
 sound and images will not only use traditional methods, but also use
 artificial intelligence to generate them. If you have any questions and
-suggestions, you can contact me in [bilibili space](https://space.bilibili.com/3461566190061988).
+suggestions, you can contact me.
 
-### How to run project
 
-* Configure Qt framework
+### 1.0.0 MIDI 练习器
 
-```
-CMAKE_PREFIX_PATH=~/Qt/6.4.1/macos
-```
+- [ ] 可以选择程序自带的 MIDI 进行音乐弹奏练习。音符接触按键表示音符开始，音符完全离开按键表示音符结束。
 
-* Install conan packages
+- [ ] 可以自行导入 MIDI 文件进行练习
 
-```
-pip install conan
-```
+- [ ] 有个分数记录表示当前的准确率，100 分是理论的上限值！
 
-### Reference
-
-* [Google Material Design](https://m3.material.io/)
-* [ADSR Envelope](https://en.wikipedia.org/wiki/Synthesizer#ADSR_envelope)
-* [Free MIDI](https://freemidi.org/)
-* [Conan Package Manager](https://docs.conan.io/2/)
-* [Qt Stylesheet reference](https://doc.qt.io/qt-6/stylesheet-reference.html)
