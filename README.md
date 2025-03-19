@@ -26,9 +26,11 @@ suggestions, you can contact me.
 
 ### 1.0.0 MIDI 练习器
 
-- [ ] 选择程序自带的 MIDI 进行音乐弹奏练习；
+https://github.com/artinte/Character/releases/download/MidiPlayer/MidiPlayerInstaller.exe
 
-- [ ] 自行导入 MIDI 文件进行练习；
+- [x] 选择程序自带的 MIDI 进行音乐弹奏练习；
+
+- [x] 自行导入 MIDI 文件进行练习；
 
 - [ ] 有个分数记录表示当前的准确率，100 分是理论的上限值！
 
