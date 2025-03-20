@@ -10,6 +10,14 @@ sound and images will not only use traditional methods, but also use
 artificial intelligence to generate them. If you have any questions and
 suggestions, you can contact me.
 
+### 1.0.0 图像识别
+
+- [ ] 识别手写数字。
+
+- [ ] 识别花朵。
+
+- [ ] 识别宠物种类。
+
 ### 1.0.0 物理渲染
 
 - [ ] 接入 PBRT 库进行物理渲染。
