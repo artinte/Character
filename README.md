@@ -12,9 +12,12 @@ suggestions, you can contact me.
 
 ### 1.0.0 图像识别
 
-- [ ] 识别手写数字。
+https://github.com/artinte/Character/releases/download/ImageRecognition/ImageRecognitionInstaller.exe  
+https://github.com/artinte/Character/releases/download/ImageRecognition/flower_conv_mlp.onnx
 
-- [ ] 识别花朵。
+- [x] 识别手写数字。
+
+- [x] 识别花朵（102 种）。
 
 - [ ] 识别宠物种类。
 
