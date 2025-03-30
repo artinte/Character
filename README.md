@@ -27,7 +27,7 @@ https://github.com/artinte/Character/releases/download/ImageRecognition/flower_c
 
 - [ ] 识别宠物种类。
 
-- [ ] 识别图片中的文字。
+- [ ] `easyocr` 识别图片中的文字。
 
 ### 1.0.0 物理渲染
 
