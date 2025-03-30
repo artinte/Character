@@ -10,6 +10,12 @@ sound and images will not only use traditional methods, but also use
 artificial intelligence to generate them. If you have any questions and
 suggestions, you can contact me.
 
+### 1.0.0 抠图
+
+- [ ] 进行各种物体抠图。
+
+主要参考：https://github.com/facebookresearch/segment-anything
+
 ### 1.0.0 图像识别
 
 https://github.com/artinte/Character/releases/download/ImageRecognition/ImageRecognitionInstaller.exe  
